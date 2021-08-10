@@ -36,7 +36,7 @@ const numberOfBooksToPrint = pageRequirements(1, 1, 1);
 console.log(numberOfBooksToPrint); */
 
 
-/* // 4. bestFriend() Find the friend whose name is biggest
+// 4. bestFriend() Find the friend whose name is biggest
 function bestFriend(friends) {
     let largestName = friends[0];
     for (friend of friends) {
@@ -48,8 +48,7 @@ function bestFriend(friends) {
 };
 let friendList = ['mahbub', 'azam', 'raton', 'masud', 'Umme Habiba', 'afrin', 'Yakub Ali'];
 const largestFriendName = bestFriend(friendList);
-console.log(largestFriendName); */
-
+console.log(largestFriendName);
 
 
 /* // 5. onlyPositive()  | if - numbers come then stop the loop and print all the numbers before negative reach.
